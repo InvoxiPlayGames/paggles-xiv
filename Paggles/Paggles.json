@@ -1,0 +1,11 @@
+{
+    "Author": "InvoxiPlayGames",
+    "Name": "Paggles",
+    "Punchline": "My Final Fantasy XIV says paggles right next to the time, what does this mean?",
+    "Description": "Changes the time in the Server Bar with \"paggles\".",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "paggles",
+        "aggles"
+    ]
+}
