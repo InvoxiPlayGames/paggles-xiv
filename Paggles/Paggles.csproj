@@ -3,12 +3,12 @@
   <Import Project="Dalamud.Plugin.Bootstrap.targets"/>
 
   <PropertyGroup>
-    <Authors></Authors>
+    <Authors>InvoxiPlayGames</Authors>
     <Company></Company>
-    <Version>0.0.0.1</Version>
+    <Version>1.0.0.1</Version>
     <Description>My Final Fantasy XIV says paggles right next to the time, what does this mean?</Description>
     <Copyright></Copyright>
-    <PackageProjectUrl>https://github.com/InvoxiPlayGames/Paggles</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/InvoxiPlayGames/paggles-xiv</PackageProjectUrl>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
     <IsPackable>false</IsPackable>
   </PropertyGroup>
